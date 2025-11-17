@@ -1,5 +1,4 @@
 <!--
-**anirudhkowluri/anirudhkowluri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💫 About Me:
 A Machine Learning and deep -learning  enthusiast  with a hands<br> on experience in developing machine learning models .With<br> immense leadership quality and good communication skills.<br> Committed to delivering driving data-driven decision making for<br> organizational growth. Seeking an opportunity to utilize my skills<br> and contribute to the success of a forward-thinking company.
 
