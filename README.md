@@ -1,4 +1,3 @@
-<!--
 # 💫 About Me:
 A Machine Learning and deep -learning  enthusiast  with a hands<br> on experience in developing machine learning models .With<br> immense leadership quality and good communication skills.<br> Committed to delivering driving data-driven decision making for<br> organizational growth. Seeking an opportunity to utilize my skills<br> and contribute to the success of a forward-thinking company.
 
@@ -23,4 +22,3 @@ A Machine Learning and deep -learning  enthusiast  with a hands<br> on experienc
 [![](https://visitcount.itsvg.in/api?id=anirudhkowluri&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
